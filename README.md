@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Prabhu (aka Liko) ⚡</h1>
+<h1 align="center">Hi there, I'm Prabhu</h1>
 <h3 align="center">Full-Stack Developer | Modular Architect | LAMP Stack Specialist</h3>
 
 <p align="center">
