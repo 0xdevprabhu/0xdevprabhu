@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggZd3pbYQCyYv/giphy.gif" width="150" alt="coding vibes" />
-  <h1>Hey there, I'm Prabhu (Liko)! 👋</h1>
+  <h1>Hey there, I'm Prabhu ! 👋</h1>
   <h3>Full-Stack Dev ⚡ | SaaS Architect 🧱 | Tech Meme Connoisseur</h3>
 </div>
 
