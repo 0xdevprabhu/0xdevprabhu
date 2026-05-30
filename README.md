@@ -1,56 +1,108 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggZd3pbYQCyYv/giphy.gif" width="150" alt="coding vibes" />
-  <h1>Hey there, I'm Prabhu ! 👋</h1>
-  <h3>Full-Stack Dev ⚡ | SaaS Architect 🧱 | Tech Meme Connoisseur</h3>
+
+```
+██████╗ ██████╗  █████╗ ██████╗ ██╗  ██╗██╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║  ██║██║   ██║
+██████╔╝██████╔╝███████║██████╔╝███████║██║   ██║
+██╔═══╝ ██╔══██╗██╔══██║██╔══██╗██╔══██║██║   ██║
+██║     ██║  ██║██║  ██║██████╔╝██║  ██║╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+```
+
+**`0xdevprabhu`** — Full Stack Developer · SaaS Architect · Builder
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=00FF9C&center=true&vCenter=true&width=500&lines=PHP+%2B+MySQL+%2B+JS+%3D+My+Holy+Trinity;Building+Scalable+SaaS+%E2%80%94+One+Module+at+a+Time;Currently+Learning%3A+Laravel+%26+React;From+Sivakasi+%F0%9F%87%AE%F0%9F%87%B3+to+the+Cloud+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+
 </div>
+
+---
+
+## `$ whoami`
+
+```bash
+> Name        : Prabhu P
+> Role        : Full Stack Developer @ Noxlay Cyber Tech
+> Location    : Sivakasi, Tamil Nadu 🇮🇳
+> Education   : B.E CSE — PSN College of Engineering & Technology (2021–2025)
+> Stack       : PHP · MySQL · HTML · CSS · JavaScript
+> Learning    : Laravel · React
+> Superpower  : AI-Assisted Development + Prompt Engineering
+> Status      : Building in production 🟢
+```
+
+---
+
+## `$ cat skills.json`
+
+```json
+{
+  "frontend"  : ["HTML5", "CSS3", "JavaScript"],
+  "backend"   : ["PHP", "MySQL", "REST APIs", "MVC Architecture"],
+  "learning"  : ["Laravel", "React"],
+  "tools"     : ["Git", "GitHub", "VS Code", "phpMyAdmin", "Antigravity"],
+  "concepts"  : ["CRUD", "Authentication", "SQL Injection Defense", "XSS/CSRF Protection"],
+  "ai_skills" : ["AI-Assisted Development", "Prompt Engineering", "AI Tools Integration"]
+}
+```
+
+---
+
+## `$ ls ./projects/`
+
+| Project | Stack | Description |
+|---|---|---|
+| 🛒 **GrocerZap** | PHP · MySQL · JS | Grocery delivery web platform |
+| 🍽️ **SmartMenu** | PHP · MySQL · JS | Dynamic digital menu system |
+| 🥗 **FoodCher** | Full Stack | Food-related SaaS app |
+| 🤖 **Agent** | PHP · AI | AI-integrated automation tool |
+| 👗 **Niranya Fashions** | Full Stack | Fashion e-commerce platform |
+| 🌐 **Noxlay** | LAMP Stack | Company SaaS application |
+
+> 🔗 All projects live at [`github.com/0xdevprabhu`](https://github.com/0xdevprabhu)
+
+---
+
+## `$ git log --oneline --career`
+
+```
+🟢 Nov 2025 – Present  →  Full Stack Developer       @ Noxlay Cyber Tech
+🟡 Aug 2025 – Nov 2025 →  Full Stack Dev Intern       @ Noxlay Cyber Tech  [3 months]
+🟠 May 2025 – Aug 2025 →  Full Stack Dev Trainee      @ Noxlay Cyber Tech  [3 months]
+```
+
+---
+
+## `$ ping me`
 
 <div align="center">
-  <i>"I build websites like I play with Lego blocks—one solid, modular piece at a time."</i>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xdevprabhu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xdevprabhu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0xdevprabhu.page.gd-00FF9C?style=flat-square&logo=safari&logoColor=black)](https://0xdevprabhu.page.gd)
+[![Email](https://img.shields.io/badge/Email-0xdevprabhu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:0xdevprabhu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0xdevprabhu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xdevprabhu)
+
 </div>
 
 ---
 
-### 🚀 Leveling Up My Developer Journey
-From trainee to shipping live, scalable code at **Noxlay Cyber Tech**, my playground is the complete LAMP stack. I don't just write scripts; I engineer **modular, secure architectures** that transform wild ideas into pixel-perfect reality. Based out of Sivakasi, Tamil Nadu, I'm all about clean code and good vibes.
+## `$ uptime`
 
-Currently, my XP bar is filling up with **Laravel** & **React** to unlock next-gen frontend/backend sorcery. 🪄
+```
+Prabhu has been online for: 1 year in production
+Last deployment: November 2025
+Next milestone: Laravel + React mastery
+Current mood: Building & Shipping 🚀
+```
 
 ---
-
-### 🧰 My "Lego Box" (Tech Arsenal)
-*Here are the tools I use to build the web, piece by piece:*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Modular_Design-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Assisted-092E20?style=for-the-badge&logo=openai&logoColor=white" />
+
+```
+// If you can read this, you're a developer too.
+// Let's build something awesome together.
+```
+
+⚡ *Open to collaborations, SaaS ideas & backend deep-dives*
+
 </div>
-
----
-
-### 🎮 What I'm Cooking...
-*Here’s a taste of my recent modular builds:*
-
-* 🛍️ **The Shapeshifting SaaS:** A dynamic e-commerce beast! I built it to seamlessly switch from a clothing store to jewelry, and then to a bookstore, all powered by a flexible, robust database schema.
-* 🧩 **Drag-and-Drop Page Builder:** Why write static HTML when you can build a custom admin tool? I used raw JS for frontend sorcery and PHP to securely save layouts into the database.
-* 💬 **Fort Knox Forum:** A super-advanced, highly secure community platform. Built entirely from scratch on the LAMP stack, featuring bulletproof SQL injection and XSS defenses.
-
----
-
-### 📫 Hit Me Up!
-Always down to talk code architecture, debate the best CSS layout methods, or share some top-tier tech memes. 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/0xdevprabhu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://0xdevprabhu.page.gd/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="mailto:0xdevprabhu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-<br>
-<p align="center"><i>Warning: May start explaining database normalization at parties.</i> 🤓</p>
