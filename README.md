@@ -89,16 +89,16 @@ I am a Full-Stack Developer hailing from **Sivakasi, Tamil Nadu**, specializing 
 *Always ready to talk web security, SaaS architecture, or share top-tier tech memes.*
 
 <div align="center">
-  <a href="https://oxdevprabhu.page.gd"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/oxdevprabhu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/oxdevprabhu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:oxdevprabhu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://0xdevprabhu.page.gd"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/0xdevprabhu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/0xdevprabhu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:0xdevprabhu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxdevprabhu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxdevprabhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xdevprabhu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdevprabhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 <p align="center"><i>Constantly refactoring my life and code... usually at the same time.</i> ☕</p>
