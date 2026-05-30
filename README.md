@@ -97,7 +97,6 @@ I am a Full-Stack Developer hailing from **Sivakasi, Tamil Nadu**, specializing 
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xdevprabhu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xdevprabhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
