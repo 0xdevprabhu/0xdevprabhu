@@ -5,10 +5,8 @@
   </a>
 
   <p align="center">
-    <b>Full Stack Developer</b> • <b>LAMP Stack Specialist</b> • <b>Modern Web & AI Architect</b>
-    <br>
-    <i>Crafting high-throughput SaaS platforms, rock-solid database architectures & AI-assisted applications.</i>
-  </p>
+  <sub>⚡ Crafted with clean architecture & relentless caffeine by <b>Prabhu P (@0xdevprabhu)</b> | Sivakasi, Tamil Nadu</sub>
+</p>
 
   <!-- Quick Action Badges -->
   <p align="center">
@@ -69,8 +67,10 @@ $ npx 0xdevprabhu --status --verbose
 #### ⚙️ **Backend & Database Systems**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,laravel,python,fastapi,linux,apache,nginx&theme=dark" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,laravel,python,fastapi,linux,nginx&theme=dark" alt="Backend Stack" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Apache_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>
 
 #### 🤖 **AI Integration & Intelligence**
@@ -137,8 +137,8 @@ gitGraph
 ### 📊 **GitHub Activity & Telemetry**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xdevprabhu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdevprabhu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xdevprabhu&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xdevprabhu&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
